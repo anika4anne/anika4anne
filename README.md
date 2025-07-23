@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anika4dev
+- 👋 Hi, I’m @anika4anne
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning 
 - 📫 How to reach me anika4dev@gmail.com
